@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(135deg, #d44588 0%, #a71056 100%);
+}
+
+#colorValue {
+    font-weight: bold;
+}
